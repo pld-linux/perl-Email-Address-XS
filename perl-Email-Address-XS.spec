@@ -8,7 +8,7 @@ Summary:	Email::Address::XS - Parse and format RFC 5322 email addresses and grou
 Summary(pl.UTF-8):	Email::Address::XS - analiza i formatowanie adresów zgodnych z RFC 5322
 Name:		perl-Email-Address-XS
 Version:	1.04
-Release:	5
+Release:	6
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
