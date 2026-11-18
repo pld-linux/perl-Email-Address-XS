@@ -7,14 +7,14 @@
 Summary:	Email::Address::XS - Parse and format RFC 5322 email addresses and groups
 Summary(pl.UTF-8):	Email::Address::XS - analiza i formatowanie adresów zgodnych z RFC 5322
 Name:		perl-Email-Address-XS
-Version:	1.04
-Release:	9
+Version:	1.05
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Email/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	e756fc09d24e2aa4fafd97f30a2fd27b
-URL:		http://search.cpan.org/dist/Email-Address-XS/
+Source0:	https://www.cpan.org/modules/by-module/Email/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	b781ab66e272173e44ac75f32c191d54
+URL:		https://metacpan.org/release/Email-Address-XS
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.30
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
